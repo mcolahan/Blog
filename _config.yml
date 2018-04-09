@@ -31,7 +31,7 @@ mailchimp: # Add your MailChimp form identifier.
 discus_identifier: mc-blog-1 # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-117257169-1
 
 # Paginate
 paginate: 6
